@@ -19,7 +19,7 @@ Code written with help from Elize Herrewijnen (elize.herrewijnen@politie.nl).
 
 ## Usage
 - Data collection: 
-  - [Download the IMDB-dataset](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+  - [Download the IMDB-dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
  - Download Spacy's NLP pipeline
   ````
   python -m spacy download en_core_web_lg
