@@ -24,4 +24,5 @@ Code written with help from Elize Herrewijnen (elize.herrewijnen@politie.nl).
   ````
   python -m spacy download en_core_web_lg
   ````
+- Download the XLM-Roberta-base model and use this as pre-trained BERT model.
 - Post-train your own model via 'train_model.ipynb' or load in a post-trained model and continue with 'predict_dataset.ipynb'. 
