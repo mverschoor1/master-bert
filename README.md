@@ -5,7 +5,7 @@ This repository contains code written for the Master Thesis: "The Fragmented Nat
 
 - Author: M.S. Verschoor
 - Supervisor: E. Herrewijnen
-- Supervisor VU: D. van den Bert 
+- Supervisor VU: D. van den Berg 
 
 The aim of this project was to find out how much data leaks from a post-trained BERT model. In order to find out, a BERT model was post-trained on the IMDB dataset. The five most common attributes in the dataset were determined via Spacy's NER. Five different test datasets were created for these five attributes, where 15% of the occurrence of these entities was masked. The post-trained BERT model predicted the masks. Accuracy was calculated by defining how many of the masks were correctly predicted. 
 
